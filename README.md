@@ -11,5 +11,5 @@
 1. Item 1
 2. Item 2
 3. Item3
-     *Item 3a
-     *item 3b
+     * Item 3a
+     * Item 3b
